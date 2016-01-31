@@ -25,9 +25,7 @@ public class BrowserConfiguration {
     public enum selectedBrowser {
 
         FIREFOX, IE6, IE7, IE8, IE9, SAFARI, OPERA, GOOGLECHROME, ANDROID, IPHONE, HTMLUNIT
-    }
-
-    ;
+    };
 
     public enum htmlUnitEmulation {
 
